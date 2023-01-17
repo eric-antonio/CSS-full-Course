@@ -1,8 +1,15 @@
 body{
     font-size: 20px;
 }
+h1, h2{
+    color: brown;
+}
 p{
     color: blue;
+}
+.highligth{
+    text-transform: uppercase;
+    background-color: gold;
 }
 
 .gray{
@@ -10,5 +17,10 @@ p{
 }
 
 #first{
+    color: rgb(132, 0, 255);
+   
+}
+#second{
     font-style: italic;
+
 }
