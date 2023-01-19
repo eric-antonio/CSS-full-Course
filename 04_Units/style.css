@@ -1,8 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 h1{
     border: 2px dashed black;
     width: 50%;
     font-size: 3rem;
     padding: 0.3em;
+}
+main{
+    background-color: rgb(0, 217, 255);
+    width: 50vw;
+    font-size: 2rem;
 }
 
 p{
