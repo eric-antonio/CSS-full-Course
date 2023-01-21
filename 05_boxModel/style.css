@@ -4,12 +4,10 @@
     box-sizing: border-box;
 }
 .container{
-    border: 2px dashed red;
+    border: dashed red;
+    border-top: 5px solid;
+    border-right: 10px dashed;
     font-size: 1.2rem;
     margin: 1.5em 2em 2em 2em  ;
-    /* margin-top: 1.5em;
-    margin-right:2em ;
-    margin-bottom: 2em;
-    margin-left: 2em; */
-    padding: 1.5em 2em ;
+    padding: 1.5em ;
 }
