@@ -5,6 +5,8 @@ body{
 /* input , button{
     font:inherit;
 } */
-p{
-    text-decoration: underline;
+.ops{
+    text-indent: 2em;
+    tex-align: justify;
+    line-height: 1.6;
 }
