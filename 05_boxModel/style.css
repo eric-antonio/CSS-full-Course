@@ -4,8 +4,10 @@
     box-sizing: border-box;
 }
 .container{
-    border: dashed red;
+    border: outset red;
     font-size: 1.2rem;
     margin: 1.5em 2em 2em 2em  ;
     padding: 1.5em ;
+    outline:  solid palegreen;
+    outline-offset: 10px;
 }
